@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Pablo Soundboard",
+  "name": "Pablo Soundboard",
+  "description": "Fun with Pablo's voice",
   "icons": [
     {
       "src": "favicon.ico",
